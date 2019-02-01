@@ -1,0 +1,6 @@
+name: AESoundDriver
+main: com.github.mrivanplays.announcements.drivers.sound.AESoundDriver
+version: ${project.version}
+api-version: 1.13
+description: Sound driver for bungeecord
+author: MrIvanPlays

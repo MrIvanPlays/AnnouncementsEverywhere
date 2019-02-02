@@ -10,18 +10,9 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Plugin version(NOTE: We do not support older versions that 3.0.0):** Version (ex. 3.4.0)
 
-**Plugin version(NOTE: We do not support older versions that 3.0.0):**
- - Version [e.g. 22]
-
-**Error:**
-- hastebin/hatebin/paste.lucko.me/sourceb.in link to the error
+**Error:** hastebin/hatebin/paste.lucko.me/sourceb.in link to the error
 
 **Additional context**
 Add any other context about the problem here.

@@ -5,4 +5,7 @@ Can be downloaded from [here](https://www.spigotmc.org/resources/announcementsev
 
 Site: https://mrivanplays.github.io/
 
+# Adding more sounds
+You wanna add some more sounds? Open PR! I accept every PR that is not malicious. 
+
 (C) MrIvanPlays (Ivan Pekov) 2019. All rights reserved
